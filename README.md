@@ -11,6 +11,9 @@ This tutorial shows how to use [ZeroMQ](http://zeromq.org) with ROS for publishi
     ```
     sudo apt-get install libzmq3-dev
     ```
+    ```
+    pip install pyzmq
+    ```
     _It should be easy to install newer versions of ZeroMQ, and this repository should be compatible with them. However, please note that this repository is only for demonstration purposes. Therefore, we have not tested it thoroughly. In such cases, please feel free to open a new [issue](#issue) to inform the changes to authors._
 
 
